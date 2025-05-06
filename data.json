@@ -1,0 +1,34 @@
+[
+    {
+      "id": "1",
+      "name": "johnathan",
+      "email": "john@gmail.com",
+      "age": 20,
+      "university": "AOU",
+      "Level": 2
+    },
+    {
+      "id": "2",
+      "name": "Basel",
+      "email": "basel@gmail.com",
+      "age": 23,
+      "university": "Helwan",
+      "Level": 3
+    },
+    {
+      "id": "3",
+      "name": "Shrouk",
+      "email": "shrouk@gmail.com",
+      "age": "22",
+      "university": "Cairo",
+      "Level": 2
+    },
+    {
+      "id": "5",
+      "name": "reham",
+      "email": "reham@gmail.com",
+      "age": 18,
+      "university": "Cairo",
+      "Level": 1
+    }
+  ]
